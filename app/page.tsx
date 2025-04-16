@@ -9,7 +9,7 @@ export default async function Home() {
       <SpotifyStatus initialData={initialData} />
       <div className="flex flex-col gap-4">
         <Link
-          href={"https://github.com/shm-dsgn/spotify-status"}
+          href={"https://github.com/shm-dtt/spotify-status"}
           target="_blank"
           className="text-xs underline text-neutral-400"
         >
